@@ -93,7 +93,7 @@ Interns engage in a structured weekly schedule that delivers real-time, hands-on
 ## 🤝 Sponsors & Partners
 
 - 🏢 LXI Technologies (Palakkad)
-- 🏫 Local Colleges & SHG Networks
+- 🏫 Local Engineering and Regular Colleges & SHG Networks
 - ☁️ Partner NGOs for Infrastructure
 
 ---
