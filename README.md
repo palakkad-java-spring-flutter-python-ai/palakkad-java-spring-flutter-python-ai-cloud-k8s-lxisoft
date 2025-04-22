@@ -39,6 +39,10 @@ Welcome to **lxisoft’s flagship full stack internship program** for 2025, base
 
 ---
 
+
+## 📩 Wish to Join Our Internship Program
+- [Click Here](https://forms.gle/Tk5nctuZ15JZZUfe6)
+  
 ## 🌍 Why Palakkad?
 
 We believe that **rural India** holds the key to a more inclusive tech future. Our development center in Palakkad is **powered by local wisdom, global tech**, and a deep passion to bridge the **employability gap**.
@@ -93,6 +97,9 @@ Interns engage in a structured weekly schedule that delivers real-time, hands-on
 - ☁️ Partner NGOs for Infrastructure
 
 ---
+
+## 📩 Wish to Join Our Internship Program
+- [Click Here](https://forms.gle/Tk5nctuZ15JZZUfe6)
 
 ## 📩 Contact
 
