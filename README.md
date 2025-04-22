@@ -76,8 +76,10 @@ Interns engage in a structured weekly schedule that delivers real-time, hands-on
 
 ## 📸 Social Media & Press
 
+- 📸 [web](https://www.lxisoft.com).
+- 📝 [facebook](https://www.facebook.com/lxisoft)
 - 📸 [Instagram](https://instagram.com/lxisoft)
-- 📝 [Medium Blog](https://medium.com/@lxisoft)
+- 📸 [LinkedIn](https://in.linkedin.com/company/lxisoft).
 
 
 🗣 *“The village is our campus. The internet is our university.”* – lxisoft
@@ -97,7 +99,7 @@ Interns engage in a structured weekly schedule that delivers real-time, hands-on
 Want to hire an intern, volunteer, or replicate this model?
 
 📧 `ajith.anand@gmail.com`  
-🌐 [https://lxisoft.com](https://lxisoft.com)
+🌐 [https://www.lxisoft.com](https://www.lxisoft.com)
 
 ---
 
