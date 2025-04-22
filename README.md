@@ -35,7 +35,7 @@ Welcome to **lxisoft’s flagship full stack internship program** for 2025, base
 | Architecture    | REST APIs, MVC, 12-Factor,         |
 |                 | Microservices, Cross Platform Apps | 
 |                 | Blockchain                         |
-|-----------------|------------------------------------|
+
 
 ---
 
